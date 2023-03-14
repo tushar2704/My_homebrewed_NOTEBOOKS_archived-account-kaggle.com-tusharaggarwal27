@@ -1,4 +1,4 @@
-#### This repository contains a collection of my original notebooks on Kaggle and blogs, showcasing my skills in data analysis, machine learning, and data visualization.tttt
+#### This repository contains a collection of my original notebooks on Kaggle and blogs, showcasing my skills in data analysis, machine learning, and data visualization.1
 
 #### I have created each of these projects from scratch, using my expertise in Python, SQL, and other data analysis tools.
 
