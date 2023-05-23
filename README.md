@@ -15,7 +15,6 @@ Welcome to my Repository! This repository houses a captivating collection of my 
 # Contents
 Browse the following sections to explore the fascinating projects within this repository:
 
-* [All Purpose SciPy Notebook you need](https://github.com/tushar2704/My_homebrewed_NOTEBOOKS/blob/main/all-purpose-scipy-notebook-you-need.ipynb): I used SciPy liabrary to show most frequent functions that you might require in a single notebook.
 * [Bank term deposit analysis](https://github.com/tushar2704/My_homebrewed_NOTEBOOKS/blob/main/bank-term-deposit-analysis.ipynb):  I build a model that predict term deposit application by individuals based on Bank term deposit dataset with H2O.
 * [Banknote-Are those real?](https://github.com/tushar2704/My_homebrewed_NOTEBOOKS/blob/main/banknote-authentication-project.ipynb): I build a machine learning model to predict if banknote is real or fake.
 * [Climate Geospatial Analysis with Xarray](https://github.com/tushar2704/My_homebrewed_NOTEBOOKS/blob/main/climate-geospatial-analysis-with-xarray.ipynb):  I am using Xarray to analyse Climate Geospatial data in netcdf format.
