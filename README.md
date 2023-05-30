@@ -22,8 +22,9 @@ Browse the following sections to explore the fascinating projects within this re
 
 # Get in Touch
 I'm always enthusiastic about collaborating with fellow data science enthusiasts, so don't hesitate to reach out. Feel free to star this repository, provide feedback, or connect with me on LinkedIn. Let's embark on an exciting data-driven journey together!
-#Author
-- <b>©2023 Tushar Aggarwal. All rights reserved</b>
-- <b>LinkedIn</b>: https://www.linkedin.com/in/tusharaggarwalinseec/
-- <b>Website</b>: https://www.tushar-aggarwal.com/
-- <b>Kaggle</b>: https://www.kaggle.com/tusharaggarwal27
+## Author
+- <ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>
+- <b>[LinkedIn](https://www.linkedin.com/in/tusharaggarwalinseec/)</b>
+- <b>[Medium](https://medium.com/@tushar_aggarwal)</b> 
+- <b>[Tushar-Aggarwal.com](https://www.tushar-aggarwal.com/)</b>
+- <b>[Kaggle](https://www.kaggle.com/tusharaggarwal27)</b> 
