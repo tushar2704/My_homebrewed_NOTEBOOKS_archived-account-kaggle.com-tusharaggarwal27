@@ -1,4 +1,4 @@
-# My Homebrewed NOTEBOOKS (archived account kaggle.com/tusharaggarwal27)- My account's security was compromised, 
+# My Homebrewed NOTEBOOKS-My account's security was compromised, completed Account deleted at Kaggle
 
 Welcome to my Repository! This repository houses a captivating collection of my original notebooks on Kaggle and blogs, unveiling my prowess in feature engineering, data analysis, machine learning, and data visualization. Each project has been meticulously crafted from scratch, leveraging my expertise in Python, SQL, R and a range of other powerful data analysis tools.
 
