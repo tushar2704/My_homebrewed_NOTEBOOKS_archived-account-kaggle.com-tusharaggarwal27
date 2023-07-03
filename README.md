@@ -1,6 +1,10 @@
-# My Homebrewed NOTEBOOKS (archived account kaggle.com/tusharaggarwal27)
+# My Homebrewed NOTEBOOKS (archived account kaggle.com/tusharaggarwal27)- My account's security was compromised, 
 
 Welcome to my Repository! This repository houses a captivating collection of my original notebooks on Kaggle and blogs, unveiling my prowess in feature engineering, data analysis, machine learning, and data visualization. Each project has been meticulously crafted from scratch, leveraging my expertise in Python, SQL, R and a range of other powerful data analysis tools.
+
+<a href="https://www.buymeacoffee.com/TAggData"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=🍺&slug=TAggData&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+
+
 # Features
 * ### Impressive Notebooks: 
  Dive into a diverse array of engaging notebooks that exhibit my analytical skills and problem-solving approach.
@@ -22,6 +26,12 @@ Browse the following sections to explore the fascinating projects within this re
 
 # Get in Touch
 I'm always enthusiastic about collaborating with fellow data science enthusiasts, so don't hesitate to reach out. Feel free to star this repository, provide feedback, or connect with me on LinkedIn. Let's embark on an exciting data-driven journey together!
+
+## Previous account archive snapshot as of Jan 2023
+
+![Screenshot 2023-06-27 094221](https://github.com/tushar2704/My_homebrewed_NOTEBOOKS_archived-account-kaggle.com-tusharaggarwal27/assets/66141195/31971582-c10e-4ce7-9a13-851536978924)
+
+
 ## Author
 - <ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>
 - <b>[LinkedIn](https://www.linkedin.com/in/tusharaggarwalinseec/)</b>
